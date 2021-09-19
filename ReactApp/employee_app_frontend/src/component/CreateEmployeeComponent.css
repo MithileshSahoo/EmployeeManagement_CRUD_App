@@ -1,0 +1,33 @@
+.form-label{
+    text-align: left;
+}
+
+.Container{
+    margin-top: 30px;
+    width: 40%;
+    margin: 0 auto;
+    min-width: 580px;   
+}
+.Container{
+    margin-top: 30px;
+}
+
+.form-group{
+    text-align: left;
+    padding: 5px;
+
+}
+
+.form-label{
+    font-size: 18px;
+}
+
+.form-control{
+    font-size: 10px;
+
+}
+
+
+.button{
+    text-align: center;
+}
